@@ -6,5 +6,5 @@ void minOfTwo(int a, int b){ // will recive 2 numbers  and print the min one
 }
 
 int main(){
-    minOfTwo(71,34);
+    minOfTwo(99,29);
 }
